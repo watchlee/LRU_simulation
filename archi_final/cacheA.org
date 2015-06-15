@@ -1,0 +1,4 @@
+Addressing_Bus : 32
+Sets : 32
+Associativity : 1
+Offset : 0
