@@ -2,22 +2,32 @@
 #include <stdlib.h>
 #include <math.h>
 #define TEST 0
-#define DEBUG 1
+#define DEBUG 0
+
 
 int *Index;
 int *Tag;
 int *Vaild;
+
+
 int Addressing_bus;
 int Sets;
 int Associativity;
 int Offset;
+
+static char** block_array;
+
 /*-----------Memory Allocate----------------*/
 void Allocate_memory(int Addressing_bus,int Sets,int Associativity,int Offset)
 {
     Index = (int*)malloc(Associativity*Sets*sizeof(int));
     Tag = (int*)malloc(Associativity*Sets*sizeof(int));
     Vaild = (int*)malloc(Associativity*Sets*sizeof(int));
+    block_array=(char**)malloc(Associativity*Sets*sizeof(void*));
 
+    int count;
+    for(count = 0;count<Associativity*Sets;count++)
+        block_array= (char*)malloc(32*sizeof(char*));
 }
 
 /*--------------Determine Momory---------------*/
@@ -55,17 +65,34 @@ void combination(char address[32],int N,int K)
 
 /*------------------------Addressing combination--------------------------*/
 
-void Direct_Map(char address[32])
+
+/*
+ * tag | index | offset| = address
+ *
+ */
+ 
+void Direct_Map(char** data_array,int total_data)
 {
+
     int total_block = Sets*Associativity;
-    int size= 0;
+    int index =0;
     while(total_block!=1)
     {
         total_block = total_block/2;
-        size++;
+        index++;
     }
-    printf("size = %d",size);
+   
 
+#if DEBUG == 0
+    printf("Block_bits = %d\n",index);
+    int out_loop,inner_loop;
+    for(out_loop=1;out_loop<total_data;out_loop++)
+    {
+        for(inner_loop= 0;inner_loop<32;inner_loop++)
+            printf("%c",data_array[out_loop][inner_loop]);
+        printf("\n");
+    }
+#endif
 /*要做修正
     int index=0,bit = 1;
     int count = 30;
@@ -78,7 +105,6 @@ void Direct_Map(char address[32])
 
     }
 */
-     printf("\nIndex = %d\n",index);
 }
 
 int main(int argv,char* argc[])
@@ -162,7 +188,7 @@ int main(int argv,char* argc[])
             loop++;
         }
     }
-
+    Direct_Map(data_array,total);
 #if DEBUG==1
     /*印出時必須從第一筆開始印,因為第一筆是不相關的資料
      * */
