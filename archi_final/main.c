@@ -2,6 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #define TEST 0
+#define DEBUG 1
 
 int *Index;
 int *Tag;
@@ -20,6 +21,40 @@ void Allocate_memory(int Addressing_bus,int Sets,int Associativity,int Offset)
 }
 
 /*--------------Determine Momory---------------*/
+
+/*--------------Algorithm---------------------*/
+/*
+ *              使用Branch and Bound 方法來解決此問題
+ *
+ * */
+
+/*------------------------Addressing combination--------------------------*/
+void combination_function(char address[32],char temp_address[32],int start,int end,int index,int r)
+{
+    if(index == r)
+    {
+        int count2;
+        for(count2 = 0;count2<r;count2++)
+            printf("%c ",temp_address[count2]);
+        printf("\n");
+        return;
+    }
+    int count;
+    for(count = start;count<=end&&end-count+1>=r-index;count++)
+    {
+        temp_address[index] = address[count];
+        combination_function(address,temp_address,count+1,end,index+1,r);
+    }
+}
+
+void combination(char address[32],int N,int K)
+{
+    char temp_address[K];
+    combination_function(address,temp_address,0,N-1,0,K);
+}
+
+/*------------------------Addressing combination--------------------------*/
+
 void Direct_Map(char address[32])
 {
     int total_block = Sets*Associativity;
@@ -75,6 +110,9 @@ int main(int argv,char* argc[])
 
         }
     }
+
+
+
     /*-------------setting value--------------------*/
     Addressing_bus = number[0];
     Sets = number[1];
@@ -82,26 +120,93 @@ int main(int argv,char* argc[])
     Offset = number[3];
     Allocate_memory(Addressing_bus,Sets,Associativity,Offset);
     /*-------------setting value--------------------*/
-
-
-
     char address[32];
+    int total = 0,total_data=0;
+    /*------------read total_data------------------*/
     while(!feof(address_file))
     {
         fscanf(address_file,"%s",address);
         if(strncmp(address,".",1)!=0)
         {
-            Direct_Map(address);
+            total++;
+        }
+        total_data++;
+    }
+    fclose(address_file);
+
+
+    
+
+    printf("Total data = %d and %d \n",total,total_data);
+    /*first reading file is used to take how many data that I have to get!
+    *Then, second reading is to store data into array.
+    * */
+    
+    address_file = fopen(argc[2],"r");
+    char *data_length,**data_array;
+    data_array=(char**)malloc(total*sizeof(char*)+total*32*sizeof(char));
+    int loop;
+    for(loop = 0,data_length = (char*)(data_array+total);loop<total;loop++,data_length+=32)
+        data_array[loop]=data_length;
+
+
+    loop=0;
+    while(!feof(address_file))
+    {
+        fscanf(address_file,"%s",address);
+        if(strncmp(address,".",1)!=0)
+        {
+            
+            /*當要複製資料時請勿使用 xxxx = address 這樣會造成. . .所有指標陣列都會指向最後address的值*/
+            strcpy(data_array[loop],address);
+            loop++;
         }
     }
 
-#if TEST == 1
+#if DEBUG==1
+    /*印出時必須從第一筆開始印,因為第一筆是不相關的資料
+     * */
+    int inner_loop;
+    int out_loop;
+    for(out_loop = 1;out_loop<total;out_loop++)
+    {
+        for(inner_loop = 0;inner_loop<32;inner_loop++)
+        {
+            printf("%c",data_array[out_loop][inner_loop]);
+        }
+        printf("\n");
+    }
+#endif 
+
+
+#if Test==1
+    int read_times;
+    for(read_times = 0;read_times<2;read_times++)
+    {
+        while(!feof(address_file))
+        {
+            
+            fscanf(address_file,"%s",address);
+            if(strncmp(address,".",1)!=0)
+            {
+            total++;      
+            printf("%s\n",address);
+            }
+        }
+        /*Read again file according to C(n,k)*/
+        fclose(address_file);
+        address_file = fopen(argc[2],"r");
+        printf("read_times = %d , total = %d\n",read_times,total);
+    }
+
     char file[32]={'0','0','0','1','0','0','0','1','1','1','1','1','1','0','0','1','0','1','1','0','1','1','1','1','1',
     '0','0','1','0','0','0','0'};
+    char test[5]={'1','2','3','4','5'};
     Direct_Map(file);
     int count;
     int sum = 0;
     char file2[11] ={'0','0','0','0','0','0','0','0','0','0','1'};
+    combination(test,5,3);
     for(count = 0;count<11;count++)
     {
         if(file2[count]=='1')
@@ -114,7 +219,11 @@ int main(int argv,char* argc[])
     printf("Sum = %d\n",sum);
 #endif
 
+
+
 /*-----------------------------------------------------------------------------------*/
+
+    free(data_array);
     fclose(cache_file);
     fclose(address_file);
     return 0;
