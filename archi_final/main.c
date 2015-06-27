@@ -1,7 +1,10 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <math.h>
-#define TEST 0
+#include <string.h>
+
+enum{TEST_ERROR,TEST_PRINT,TEST_FUNCTION};
+#define TEST TEST_FUNCTION
 #define DEBUG 0
 
 
@@ -10,24 +13,30 @@ int *Tag;
 int *Vaild;
 
 
-int Addressing_bus;
+static int Addressing_bus;
 int Sets;
 int Associativity;
 int Offset;
 
-static char** block_array;
+char** block_array;
 
 /*-----------Memory Allocate----------------*/
 void Allocate_memory(int Addressing_bus,int Sets,int Associativity,int Offset)
 {
+    //The number of blocks = Associativity * Sets
     Index = (int*)malloc(Associativity*Sets*sizeof(int));
     Tag = (int*)malloc(Associativity*Sets*sizeof(int));
     Vaild = (int*)malloc(Associativity*Sets*sizeof(int));
     block_array=(char**)malloc(Associativity*Sets*sizeof(void*));
+    
 
+    /*此處需要再做修改 需改成可以搭配n-way 的形式 目前只有direct mapping 模式 */
     int count;
     for(count = 0;count<Associativity*Sets;count++)
-        block_array= (char*)malloc(32*sizeof(char*));
+        block_array= (char*)malloc(Addressing_bus*sizeof(char*));
+    int count2;
+    for(count =0;count<Associativity*Sets;count++)
+        block_array[count] = '0';
 }
 
 /*--------------Determine Momory---------------*/
@@ -39,7 +48,8 @@ void Allocate_memory(int Addressing_bus,int Sets,int Associativity,int Offset)
  * */
 
 /*------------------------Addressing combination--------------------------*/
-void combination_function(char address[32],char temp_address[32],int start,int end,int index,int r)
+
+void combination_function(char address[],char temp_address[],int start,int end,int index,int r)
 {
     if(index == r)
     {
@@ -57,13 +67,13 @@ void combination_function(char address[32],char temp_address[32],int start,int e
     }
 }
 
-void combination(char address[32],int N,int K)
+void combination(char address[],int N,int K)
 {
     char temp_address[K];
     combination_function(address,temp_address,0,N-1,0,K);
 }
 
-/*------------------------Addressing combination--------------------------*/
+/*-----------------combination--------------------------*/
 
 
 /*
@@ -75,24 +85,62 @@ void Direct_Map(char** data_array,int total_data)
 {
 
     int total_block = Sets*Associativity;
+    /*設定初始值*/
+    int loop;
+    for(loop = 0;loop<total_block;loop++)
+        Vaild[loop] = 0;
+#if DEBUG==TEST_PRINT
+    printf("Offset = %d\n",Offset);
+#endif
+    /*-----------取得Blocks的index------------------*/
     int index =0;
     while(total_block!=1)
     {
         total_block = total_block/2;
         index++;
     }
-   
-
-#if DEBUG == 0
+      
+    
+#if DEBUG == TEST_PRINT
     printf("Block_bits = %d\n",index);
     int out_loop,inner_loop;
     for(out_loop=1;out_loop<total_data;out_loop++)
     {
-        for(inner_loop= 0;inner_loop<32;inner_loop++)
+        for(inner_loop= 0;inner_loop<Addressing_bus;inner_loop++)
             printf("%c",data_array[out_loop][inner_loop]);
         printf("\n");
     }
+    
 #endif
+    /*Using index to do search and LRU algorithm*/
+
+    /*Getting all data_array's elements index*/
+    int index_to_dec[total_data];
+    int count;
+    for(count = 0;count<total_data;count++)
+    {
+        index_to_dec[count] = 0;
+    }
+    for(count = 1;count<total_data;count++)
+    {
+        for(loop = 0;loop<index;loop++)
+        {
+            if(data_array[count][loop]=='1')
+            {
+                index_to_dec[count]+=pow(2,(loop-2));
+            }
+        }
+
+    }
+    /*Direct Mapping memory*/
+/*    for(count = 1;count<total_data;count++)
+    {
+        if(strcmp(block_array[count][0],"0")==0)
+        {
+            printf("first using\n");
+        }
+    }
+*/  
 /*要做修正
     int index=0,bit = 1;
     int count = 30;
@@ -146,7 +194,7 @@ int main(int argv,char* argc[])
     Offset = number[3];
     Allocate_memory(Addressing_bus,Sets,Associativity,Offset);
     /*-------------setting value--------------------*/
-    char address[32];
+    char address[Addressing_bus];
     int total = 0,total_data=0;
     /*------------read total_data------------------*/
     while(!feof(address_file))
@@ -170,9 +218,9 @@ int main(int argv,char* argc[])
     
     address_file = fopen(argc[2],"r");
     char *data_length,**data_array;
-    data_array=(char**)malloc(total*sizeof(char*)+total*32*sizeof(char));
+    data_array=(char**)malloc(total*sizeof(char*)+total*Addressing_bus*sizeof(char));
     int loop;
-    for(loop = 0,data_length = (char*)(data_array+total);loop<total;loop++,data_length+=32)
+    for(loop = 0,data_length = (char*)(data_array+total);loop<total;loop++,data_length+=Addressing_bus)
         data_array[loop]=data_length;
 
 
@@ -196,7 +244,7 @@ int main(int argv,char* argc[])
     int out_loop;
     for(out_loop = 1;out_loop<total;out_loop++)
     {
-        for(inner_loop = 0;inner_loop<32;inner_loop++)
+        for(inner_loop = 0;inner_loop<Addressing_bus;inner_loop++)
         {
             printf("%c",data_array[out_loop][inner_loop]);
         }
@@ -244,7 +292,10 @@ int main(int argv,char* argc[])
     Direct_Map(file);
     printf("Sum = %d\n",sum);
 #endif
-
+    
+#if TEST==TEST_FUNCTION
+    char str[5]={'a','b','c','d','e'};
+#endif
 
 
 /*-----------------------------------------------------------------------------------*/
