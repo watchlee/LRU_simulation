@@ -5,7 +5,8 @@
 
 enum{TEST_ERROR,TEST_PRINT,TEST_FUNCTION};
 #define TEST TEST_FUNCTION
-#define DEBUG 0
+#define DEBUG TEST_PRINT 
+#define INFINITE 999999999
 
 
 int *Index;
@@ -18,7 +19,7 @@ int Sets;
 int Associativity;
 int Offset;
 
-char** block_array;
+int** block_array;
 
 /*-----------Memory Allocate----------------*/
 void Allocate_memory(int Addressing_bus,int Sets,int Associativity,int Offset)
@@ -27,16 +28,16 @@ void Allocate_memory(int Addressing_bus,int Sets,int Associativity,int Offset)
     Index = (int*)malloc(Associativity*Sets*sizeof(int));
     Tag = (int*)malloc(Associativity*Sets*sizeof(int));
     Vaild = (int*)malloc(Associativity*Sets*sizeof(int));
-    block_array=(char**)malloc(Associativity*Sets*sizeof(void*));
+    block_array=(int**)malloc(Associativity*Sets*sizeof(void*));
     
 
     /*此處需要再做修改 需改成可以搭配n-way 的形式 目前只有direct mapping 模式 */
     int count;
     for(count = 0;count<Associativity*Sets;count++)
-        block_array= (char*)malloc(Addressing_bus*sizeof(char*));
+        block_array= (int*)malloc(Addressing_bus*sizeof(int*));
     int count2;
     for(count =0;count<Associativity*Sets;count++)
-        block_array[count] = '0';
+        block_array[count] = INFINITE;
 }
 
 /*--------------Determine Momory---------------*/
@@ -80,7 +81,7 @@ void combination(char address[],int N,int K)
  * tag | index | offset| = address
  *
  */
- 
+#define TRIGGER 2
 void Direct_Map(char** data_array,int total_data)
 {
 
@@ -99,48 +100,105 @@ void Direct_Map(char** data_array,int total_data)
         total_block = total_block/2;
         index++;
     }
-      
+
+    /*-----------取得Blocks的tag--------------------*/
+    //int tag = Addressing_bus - index - Offset;  Can using Addressing_bus - index - Offset to replace this variable!
     
-#if DEBUG == TEST_PRINT
+
+    /*Using index to do search and LRU algorithm*/
+
+    /*Getting all data_array's elements index*/
+    int index_to_dec[total_data];
+    int tag_to_dec[total_data];
+    int count;
+    /*---------------初始化-----------------*/
+    for(count = 0;count<total_data;count++)
+    {
+        index_to_dec[count] = 0;
+        tag_to_dec[count] = 0;
+    }
+    for(count = 1;count<total_data;count++)
+    {
+        #if TRIGGER == 1
+        for(loop = 0;loop<index;loop++)
+        {
+            if(data_array[count][loop]=='1')
+            {
+                index_to_dec[count]+=(int)(pow(2,(loop-2)));
+                
+            }
+            
+        }
+        for(loop = index;loop<Addressing_bus;loop++)
+        {
+            if(data_array[count][loop]=='1')
+            {
+                tag_to_dec[count]+=(int)pow(2,(loop-2));
+            }
+        }
+        #endif
+
+        #if TRIGGER==2
+        int times = index;
+        int number=0;
+        int start=Addressing_bus-1;
+        while(times!=0)
+        {
+            if(data_array[count][start]=='1')
+                index_to_dec[count]+=(int)(pow(2,(number)));
+            number++;
+            times--;
+            start--;
+
+        }
+
+        number = 0;
+        start = Addressing_bus-index-1;
+        times = Addressing_bus-index-1;
+        while(times!=0)
+        {
+            if(data_array[count][start]=='1')
+                tag_to_dec[count]+=(int)(pow(2,(number)));
+            number++;
+            times--;
+            start--;
+        }
+        #endif
+
+    }
+#if DEBUG==TEST_PRINT
     printf("Block_bits = %d\n",index);
     int out_loop,inner_loop;
     for(out_loop=1;out_loop<total_data;out_loop++)
     {
         for(inner_loop= 0;inner_loop<Addressing_bus;inner_loop++)
+        {
+            if(inner_loop==(Addressing_bus-index))
+                printf(" ");
             printf("%c",data_array[out_loop][inner_loop]);
-        printf("\n");
+        }
+        printf(" Index is %d and tag is %d\n",index_to_dec[out_loop],tag_to_dec[out_loop]);
     }
     
 #endif
-    /*Using index to do search and LRU algorithm*/
-
-    /*Getting all data_array's elements index*/
-    int index_to_dec[total_data];
-    int count;
-    for(count = 0;count<total_data;count++)
-    {
-        index_to_dec[count] = 0;
-    }
+    
+    /*Direct Mapping memory
+*   Using index to find where location having put tag into there.
+*
+*
+* */
+    
     for(count = 1;count<total_data;count++)
     {
-        for(loop = 0;loop<index;loop++)
+        if(block_array[index_to_dec[count]]==INFINITE)
         {
-            if(data_array[count][loop]=='1')
-            {
-                index_to_dec[count]+=pow(2,(loop-2));
-            }
+ //           printf("first using\n");
+//            block_array[index_to_dec[count]]=
+            
         }
-
+        
     }
-    /*Direct Mapping memory*/
-/*    for(count = 1;count<total_data;count++)
-    {
-        if(strcmp(block_array[count][0],"0")==0)
-        {
-            printf("first using\n");
-        }
-    }
-*/  
+  
 /*要做修正
     int index=0,bit = 1;
     int count = 30;
