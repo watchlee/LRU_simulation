@@ -1,0 +1,3343 @@
+Index is 0 and tag is 9423744
+Index is 16 and tag is 10486851
+Index is 24 and tag is 10486847
+Index is 8 and tag is 10486072
+Index is 8 and tag is 10486075
+Index is 12 and tag is 10486075
+Index is 8 and tag is 10486853
+Index is 8 and tag is 10486072
+Index is 16 and tag is 10486076
+Index is 20 and tag is 10486076
+Index is 16 and tag is 10486853
+Index is 24 and tag is 10486847
+Index is 0 and tag is 10486852
+Index is 16 and tag is 10486851
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 0 and tag is 10486854
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 4 and tag is 10486854
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 0 and tag is 10486858
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 4 and tag is 10486858
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 0 and tag is 10486862
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 4 and tag is 10486862
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 0 and tag is 10486866
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 4 and tag is 10486866
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 8 and tag is 10486854
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 12 and tag is 10486854
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 8 and tag is 10486858
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 12 and tag is 10486858
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 8 and tag is 10486862
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 12 and tag is 10486862
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 8 and tag is 10486866
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 12 and tag is 10486866
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 10486854
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 20 and tag is 10486854
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 16 and tag is 10486858
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 20 and tag is 10486858
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 16 and tag is 10486862
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 20 and tag is 10486862
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 16 and tag is 10486866
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 20 and tag is 10486866
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 24 and tag is 10486854
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 28 and tag is 10486854
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 24 and tag is 10486858
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 28 and tag is 10486858
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 24 and tag is 10486862
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 28 and tag is 10486862
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 24 and tag is 10486866
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 28 and tag is 10486866
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 0 and tag is 10486855
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 4 and tag is 10486855
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 0 and tag is 10486859
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 4 and tag is 10486859
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 0 and tag is 10486863
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 4 and tag is 10486863
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 0 and tag is 10486867
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 4 and tag is 10486867
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 8 and tag is 10486855
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 12 and tag is 10486855
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 8 and tag is 10486859
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 12 and tag is 10486859
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 8 and tag is 10486863
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 12 and tag is 10486863
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 8 and tag is 10486867
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 12 and tag is 10486867
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 10486855
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 20 and tag is 10486855
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 16 and tag is 10486859
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 20 and tag is 10486859
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 16 and tag is 10486863
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 20 and tag is 10486863
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 16 and tag is 10486867
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 20 and tag is 10486867
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 24 and tag is 10486855
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 28 and tag is 10486855
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 24 and tag is 10486859
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 28 and tag is 10486859
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 24 and tag is 10486863
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 28 and tag is 10486863
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 24 and tag is 10486867
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 28 and tag is 10486867
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 0 and tag is 10486856
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 4 and tag is 10486856
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 0 and tag is 10486860
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 4 and tag is 10486860
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 0 and tag is 10486864
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 4 and tag is 10486864
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 0 and tag is 10486868
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 4 and tag is 10486868
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 8 and tag is 10486856
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 12 and tag is 10486856
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 8 and tag is 10486860
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 12 and tag is 10486860
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 8 and tag is 10486864
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 12 and tag is 10486864
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 8 and tag is 10486868
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 12 and tag is 10486868
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 10486856
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 20 and tag is 10486856
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 16 and tag is 10486860
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 20 and tag is 10486860
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 16 and tag is 10486864
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 20 and tag is 10486864
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 16 and tag is 10486868
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 20 and tag is 10486868
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 24 and tag is 10486856
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 28 and tag is 10486856
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 24 and tag is 10486860
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 28 and tag is 10486860
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 24 and tag is 10486864
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 28 and tag is 10486864
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 24 and tag is 10486868
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 28 and tag is 10486868
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 0 and tag is 10486857
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 4 and tag is 10486857
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 0 and tag is 10486861
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 4 and tag is 10486861
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 0 and tag is 10486865
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 4 and tag is 10486865
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 0 and tag is 10486869
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 4 and tag is 10486869
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 8 and tag is 10486857
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 12 and tag is 10486857
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 8 and tag is 10486861
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 12 and tag is 10486861
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 8 and tag is 10486865
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 12 and tag is 10486865
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 8 and tag is 10486869
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 12 and tag is 10486869
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 10486857
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 20 and tag is 10486857
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 16 and tag is 10486861
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 20 and tag is 10486861
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 16 and tag is 10486865
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 20 and tag is 10486865
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 16 and tag is 10486869
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 20 and tag is 10486869
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 24 and tag is 10486857
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 28 and tag is 10486857
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 24 and tag is 10486861
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 28 and tag is 10486861
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 24 and tag is 10486865
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 28 and tag is 10486865
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 24 and tag is 10486869
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 28 and tag is 10486869
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 10486862
+Index is 0 and tag is 10486854
+Index is 0 and tag is 10486858
+Index is 0 and tag is 9423743
+Index is 0 and tag is 10486866
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 4 and tag is 10486854
+Index is 4 and tag is 10486858
+Index is 0 and tag is 10486866
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 4 and tag is 10486862
+Index is 4 and tag is 10486854
+Index is 0 and tag is 10486858
+Index is 0 and tag is 9423743
+Index is 4 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 4 and tag is 10486866
+Index is 0 and tag is 10486854
+Index is 4 and tag is 10486858
+Index is 4 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 10486862
+Index is 8 and tag is 10486854
+Index is 8 and tag is 10486858
+Index is 0 and tag is 9423743
+Index is 8 and tag is 10486866
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 8 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 10486854
+Index is 12 and tag is 10486858
+Index is 8 and tag is 10486866
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 12 and tag is 10486862
+Index is 12 and tag is 10486854
+Index is 8 and tag is 10486858
+Index is 0 and tag is 9423743
+Index is 12 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 12 and tag is 10486866
+Index is 8 and tag is 10486854
+Index is 12 and tag is 10486858
+Index is 12 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 16 and tag is 10486862
+Index is 16 and tag is 10486854
+Index is 16 and tag is 10486858
+Index is 0 and tag is 9423743
+Index is 16 and tag is 10486866
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 16 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 20 and tag is 10486854
+Index is 20 and tag is 10486858
+Index is 16 and tag is 10486866
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 20 and tag is 10486862
+Index is 20 and tag is 10486854
+Index is 16 and tag is 10486858
+Index is 0 and tag is 9423743
+Index is 20 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 20 and tag is 10486866
+Index is 16 and tag is 10486854
+Index is 20 and tag is 10486858
+Index is 20 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 24 and tag is 10486862
+Index is 24 and tag is 10486854
+Index is 24 and tag is 10486858
+Index is 0 and tag is 9423743
+Index is 24 and tag is 10486866
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 24 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 28 and tag is 10486854
+Index is 28 and tag is 10486858
+Index is 24 and tag is 10486866
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 28 and tag is 10486862
+Index is 28 and tag is 10486854
+Index is 24 and tag is 10486858
+Index is 0 and tag is 9423743
+Index is 28 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 28 and tag is 10486866
+Index is 24 and tag is 10486854
+Index is 28 and tag is 10486858
+Index is 28 and tag is 10486866
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 10486863
+Index is 0 and tag is 10486855
+Index is 0 and tag is 10486859
+Index is 0 and tag is 9423743
+Index is 0 and tag is 10486867
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 4 and tag is 10486855
+Index is 4 and tag is 10486859
+Index is 0 and tag is 10486867
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 4 and tag is 10486863
+Index is 4 and tag is 10486855
+Index is 0 and tag is 10486859
+Index is 0 and tag is 9423743
+Index is 4 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 4 and tag is 10486867
+Index is 0 and tag is 10486855
+Index is 4 and tag is 10486859
+Index is 4 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 10486863
+Index is 8 and tag is 10486855
+Index is 8 and tag is 10486859
+Index is 0 and tag is 9423743
+Index is 8 and tag is 10486867
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 8 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 10486855
+Index is 12 and tag is 10486859
+Index is 8 and tag is 10486867
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 12 and tag is 10486863
+Index is 12 and tag is 10486855
+Index is 8 and tag is 10486859
+Index is 0 and tag is 9423743
+Index is 12 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 12 and tag is 10486867
+Index is 8 and tag is 10486855
+Index is 12 and tag is 10486859
+Index is 12 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 16 and tag is 10486863
+Index is 16 and tag is 10486855
+Index is 16 and tag is 10486859
+Index is 0 and tag is 9423743
+Index is 16 and tag is 10486867
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 16 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 20 and tag is 10486855
+Index is 20 and tag is 10486859
+Index is 16 and tag is 10486867
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 20 and tag is 10486863
+Index is 20 and tag is 10486855
+Index is 16 and tag is 10486859
+Index is 0 and tag is 9423743
+Index is 20 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 20 and tag is 10486867
+Index is 16 and tag is 10486855
+Index is 20 and tag is 10486859
+Index is 20 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 24 and tag is 10486863
+Index is 24 and tag is 10486855
+Index is 24 and tag is 10486859
+Index is 0 and tag is 9423743
+Index is 24 and tag is 10486867
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 24 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 28 and tag is 10486855
+Index is 28 and tag is 10486859
+Index is 24 and tag is 10486867
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 28 and tag is 10486863
+Index is 28 and tag is 10486855
+Index is 24 and tag is 10486859
+Index is 0 and tag is 9423743
+Index is 28 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 28 and tag is 10486867
+Index is 24 and tag is 10486855
+Index is 28 and tag is 10486859
+Index is 28 and tag is 10486867
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 10486864
+Index is 0 and tag is 10486856
+Index is 0 and tag is 10486860
+Index is 0 and tag is 9423743
+Index is 0 and tag is 10486868
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 4 and tag is 10486856
+Index is 4 and tag is 10486860
+Index is 0 and tag is 10486868
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 4 and tag is 10486864
+Index is 4 and tag is 10486856
+Index is 0 and tag is 10486860
+Index is 0 and tag is 9423743
+Index is 4 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 4 and tag is 10486868
+Index is 0 and tag is 10486856
+Index is 4 and tag is 10486860
+Index is 4 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 10486864
+Index is 8 and tag is 10486856
+Index is 8 and tag is 10486860
+Index is 0 and tag is 9423743
+Index is 8 and tag is 10486868
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 8 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 10486856
+Index is 12 and tag is 10486860
+Index is 8 and tag is 10486868
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 12 and tag is 10486864
+Index is 12 and tag is 10486856
+Index is 8 and tag is 10486860
+Index is 0 and tag is 9423743
+Index is 12 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 12 and tag is 10486868
+Index is 8 and tag is 10486856
+Index is 12 and tag is 10486860
+Index is 12 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 16 and tag is 10486864
+Index is 16 and tag is 10486856
+Index is 16 and tag is 10486860
+Index is 0 and tag is 9423743
+Index is 16 and tag is 10486868
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 16 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 20 and tag is 10486856
+Index is 20 and tag is 10486860
+Index is 16 and tag is 10486868
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 20 and tag is 10486864
+Index is 20 and tag is 10486856
+Index is 16 and tag is 10486860
+Index is 0 and tag is 9423743
+Index is 20 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 20 and tag is 10486868
+Index is 16 and tag is 10486856
+Index is 20 and tag is 10486860
+Index is 20 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 24 and tag is 10486864
+Index is 24 and tag is 10486856
+Index is 24 and tag is 10486860
+Index is 0 and tag is 9423743
+Index is 24 and tag is 10486868
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 24 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 28 and tag is 10486856
+Index is 28 and tag is 10486860
+Index is 24 and tag is 10486868
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 28 and tag is 10486864
+Index is 28 and tag is 10486856
+Index is 24 and tag is 10486860
+Index is 0 and tag is 9423743
+Index is 28 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 28 and tag is 10486868
+Index is 24 and tag is 10486856
+Index is 28 and tag is 10486860
+Index is 28 and tag is 10486868
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 10486865
+Index is 0 and tag is 10486857
+Index is 0 and tag is 10486861
+Index is 0 and tag is 9423743
+Index is 0 and tag is 10486869
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 4 and tag is 10486857
+Index is 4 and tag is 10486861
+Index is 0 and tag is 10486869
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 4 and tag is 10486865
+Index is 4 and tag is 10486857
+Index is 0 and tag is 10486861
+Index is 0 and tag is 9423743
+Index is 4 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 4 and tag is 10486869
+Index is 0 and tag is 10486857
+Index is 4 and tag is 10486861
+Index is 4 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 10486865
+Index is 8 and tag is 10486857
+Index is 8 and tag is 10486861
+Index is 0 and tag is 9423743
+Index is 8 and tag is 10486869
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 8 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 10486857
+Index is 12 and tag is 10486861
+Index is 8 and tag is 10486869
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 12 and tag is 10486865
+Index is 12 and tag is 10486857
+Index is 8 and tag is 10486861
+Index is 0 and tag is 9423743
+Index is 12 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 12 and tag is 10486869
+Index is 8 and tag is 10486857
+Index is 12 and tag is 10486861
+Index is 12 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 16 and tag is 10486865
+Index is 16 and tag is 10486857
+Index is 16 and tag is 10486861
+Index is 0 and tag is 9423743
+Index is 16 and tag is 10486869
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 16 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 20 and tag is 10486857
+Index is 20 and tag is 10486861
+Index is 16 and tag is 10486869
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 20 and tag is 10486865
+Index is 20 and tag is 10486857
+Index is 16 and tag is 10486861
+Index is 0 and tag is 9423743
+Index is 20 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 20 and tag is 10486869
+Index is 16 and tag is 10486857
+Index is 20 and tag is 10486861
+Index is 20 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 24 and tag is 10486865
+Index is 24 and tag is 10486857
+Index is 24 and tag is 10486861
+Index is 0 and tag is 9423743
+Index is 24 and tag is 10486869
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 24 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 28 and tag is 10486857
+Index is 28 and tag is 10486861
+Index is 24 and tag is 10486869
+Index is 4 and tag is 9423743
+Index is 4 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 28 and tag is 10486865
+Index is 28 and tag is 10486857
+Index is 24 and tag is 10486861
+Index is 0 and tag is 9423743
+Index is 28 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 8 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 0 and tag is 9423743
+Index is 28 and tag is 10486869
+Index is 24 and tag is 10486857
+Index is 28 and tag is 10486861
+Index is 28 and tag is 10486869
+Index is 12 and tag is 9423743
+Index is 12 and tag is 9423743
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 0 and tag is 10486854
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 4 and tag is 10486854
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 0 and tag is 10486858
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 4 and tag is 10486858
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 0 and tag is 10486862
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 4 and tag is 10486862
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 0 and tag is 10486866
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 4 and tag is 10486866
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 8 and tag is 10486854
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 12 and tag is 10486854
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 8 and tag is 10486858
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 12 and tag is 10486858
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 8 and tag is 10486862
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 12 and tag is 10486862
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 8 and tag is 10486866
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 12 and tag is 10486866
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 10486854
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 20 and tag is 10486854
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 16 and tag is 10486858
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 20 and tag is 10486858
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 16 and tag is 10486862
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 20 and tag is 10486862
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 16 and tag is 10486866
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 20 and tag is 10486866
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 24 and tag is 10486854
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 28 and tag is 10486854
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 24 and tag is 10486858
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 28 and tag is 10486858
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 24 and tag is 10486862
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 28 and tag is 10486862
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 24 and tag is 10486866
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 28 and tag is 10486866
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 0 and tag is 10486855
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 4 and tag is 10486855
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 0 and tag is 10486859
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 4 and tag is 10486859
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 0 and tag is 10486863
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 4 and tag is 10486863
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 0 and tag is 10486867
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 4 and tag is 10486867
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 8 and tag is 10486855
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 12 and tag is 10486855
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 8 and tag is 10486859
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 12 and tag is 10486859
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 8 and tag is 10486863
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 12 and tag is 10486863
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 8 and tag is 10486867
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 12 and tag is 10486867
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 10486855
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 20 and tag is 10486855
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 16 and tag is 10486859
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 20 and tag is 10486859
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 16 and tag is 10486863
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 20 and tag is 10486863
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 16 and tag is 10486867
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 20 and tag is 10486867
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 24 and tag is 10486855
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 28 and tag is 10486855
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 24 and tag is 10486859
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 28 and tag is 10486859
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 24 and tag is 10486863
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 28 and tag is 10486863
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 24 and tag is 10486867
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 28 and tag is 10486867
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 0 and tag is 10486856
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 4 and tag is 10486856
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 0 and tag is 10486860
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 4 and tag is 10486860
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 0 and tag is 10486864
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 4 and tag is 10486864
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 0 and tag is 10486868
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 4 and tag is 10486868
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 8 and tag is 10486856
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 12 and tag is 10486856
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 8 and tag is 10486860
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 12 and tag is 10486860
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 8 and tag is 10486864
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 12 and tag is 10486864
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 8 and tag is 10486868
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 12 and tag is 10486868
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 10486856
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 20 and tag is 10486856
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 16 and tag is 10486860
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 20 and tag is 10486860
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 16 and tag is 10486864
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 20 and tag is 10486864
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 16 and tag is 10486868
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 20 and tag is 10486868
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 24 and tag is 10486856
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 28 and tag is 10486856
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 24 and tag is 10486860
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 28 and tag is 10486860
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 24 and tag is 10486864
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 28 and tag is 10486864
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 24 and tag is 10486868
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 28 and tag is 10486868
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 0 and tag is 10486857
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 4 and tag is 10486857
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 0 and tag is 10486861
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 4 and tag is 10486861
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 0 and tag is 10486865
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 4 and tag is 10486865
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 0 and tag is 10486869
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 4 and tag is 10486869
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 8 and tag is 10486857
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 12 and tag is 10486857
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 8 and tag is 10486861
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 12 and tag is 10486861
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 8 and tag is 10486865
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 12 and tag is 10486865
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 8 and tag is 10486869
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 12 and tag is 10486869
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 10486857
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 20 and tag is 10486857
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 16 and tag is 10486861
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 20 and tag is 10486861
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 16 and tag is 10486865
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 20 and tag is 10486865
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 16 and tag is 10486869
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 20 and tag is 10486869
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 24 and tag is 10486857
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9423740
+Index is 16 and tag is 9437581
+Index is 28 and tag is 10486857
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 24 and tag is 10486861
+Index is 24 and tag is 9423740
+Index is 24 and tag is 9423740
+Index is 20 and tag is 9437581
+Index is 28 and tag is 10486861
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 24 and tag is 9437581
+Index is 24 and tag is 10486865
+Index is 0 and tag is 9423741
+Index is 0 and tag is 9423741
+Index is 28 and tag is 9437581
+Index is 28 and tag is 10486865
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 24 and tag is 10486869
+Index is 8 and tag is 9423741
+Index is 8 and tag is 9423741
+Index is 28 and tag is 10486869
+Index is 24 and tag is 10486851
+Index is 8 and tag is 9423743
+Index is 0 and tag is 10486758
+Index is 20 and tag is 10486758
+Index is 20 and tag is 10486758
+Index is 0 and tag is 10486758
+Index is 0 and tag is 10486758
+Index is 0 and tag is 10486764
+Index is 20 and tag is 10486764
+Index is 20 and tag is 10486764
+Index is 0 and tag is 10486764
+Index is 0 and tag is 10486764
+Index is 0 and tag is 10486848
+Index is 0 and tag is 10486848
+Index is 0 and tag is 10486764
+Index is 20 and tag is 10486764
+Index is 20 and tag is 10486764
+Index is 0 and tag is 10486764
+Index is 0 and tag is 10486764
+Index is 0 and tag is 10486719
+Index is 0 and tag is 10486719
+Index is 0 and tag is 10486719
+Index is 0 and tag is 10486809
+Index is 0 and tag is 10486719
+Index is 0 and tag is 10486719
+Index is 16 and tag is 10486774
+Index is 4 and tag is 10486775
+Index is 4 and tag is 10486775
+Index is 16 and tag is 10486774
+Index is 16 and tag is 10486774
+Index is 0 and tag is 9423740
+Index is 0 and tag is 10486811
+Index is 0 and tag is 10486811
+Index is 16 and tag is 10486774
+Index is 4 and tag is 10486775
+Index is 4 and tag is 10486775
+Index is 16 and tag is 10486774
+Index is 16 and tag is 10486774
+Index is 8 and tag is 10486776
+Index is 28 and tag is 10486776
+Index is 28 and tag is 10486776
+Index is 8 and tag is 10486776
+Index is 8 and tag is 10486776
+Index is 0 and tag is 9423740
+Index is 8 and tag is 10486776
+Index is 28 and tag is 10486776
+Index is 28 and tag is 10486776
+Index is 8 and tag is 10486776
+Index is 8 and tag is 10486776
+Index is 0 and tag is 10486778
+Index is 20 and tag is 10486778
+Index is 20 and tag is 10486778
+Index is 0 and tag is 10486778
+Index is 0 and tag is 10486778
+Index is 0 and tag is 10486778
+Index is 20 and tag is 10486778
+Index is 20 and tag is 10486778
+Index is 0 and tag is 10486778
+Index is 0 and tag is 10486778
+Index is 24 and tag is 10486847
+Index is 8 and tag is 10486853
+Index is 16 and tag is 10486847
+Index is 8 and tag is 10486853
+Index is 8 and tag is 10486853
+Index is 12 and tag is 10486075
+Index is 8 and tag is 10486075
+Index is 12 and tag is 10486075
+Index is 16 and tag is 10486853
+Index is 16 and tag is 10486853
+Index is 20 and tag is 10486076
+Index is 16 and tag is 10486076
+Index is 20 and tag is 10486076
+Index is 8 and tag is 9423743
+miss happend! block index = 8, and data = 10486072 our data=10486075	
+miss happend! block index = 8, and data = 10486075 our data=10486853	
+miss happend! block index = 8, and data = 10486853 our data=10486072	
+miss happend! block index = 16, and data = 10486851 our data=10486076	
+miss happend! block index = 16, and data = 10486076 our data=10486853	
+hit happend! block index = 24, and data = 10486847 our data=10486847
+miss happend! block index = 0, and data = 9423744 our data=10486852	
+miss happend! block index = 16, and data = 10486853 our data=10486851	
+miss happend! block index = 12, and data = 10486075 our data=9423743	
+miss happend! block index = 8, and data = 10486072 our data=9423743	
+miss happend! block index = 0, and data = 10486852 our data=9423743	
+miss happend! block index = 16, and data = 10486851 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 9423743 our data=10486854	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 4, and data = 9423743 our data=10486854	
+miss happend! block index = 24, and data = 10486847 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 10486854 our data=10486858	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486076 our data=9437581	
+miss happend! block index = 4, and data = 10486854 our data=10486858	
+miss happend! block index = 0, and data = 10486858 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 0, and data = 9423741 our data=10486862	
+miss happend! block index = 0, and data = 10486862 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486858 our data=10486862	
+miss happend! block index = 8, and data = 9423743 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 0, and data = 9423741 our data=10486866	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486862 our data=10486866	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 9423741 our data=10486854	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 12, and data = 9423743 our data=10486854	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 10486854 our data=10486858	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486854 our data=10486858	
+miss happend! block index = 0, and data = 10486866 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 8, and data = 10486858 our data=10486862	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486858 our data=10486862	
+miss happend! block index = 8, and data = 10486862 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 8, and data = 9423741 our data=10486866	
+miss happend! block index = 8, and data = 10486866 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 12, and data = 10486862 our data=10486866	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=10486854	
+miss happend! block index = 16, and data = 10486854 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486854	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9437581 our data=10486858	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486854 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486858	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 16, and data = 10486858 our data=10486862	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 20, and data = 10486858 our data=10486862	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 16, and data = 10486862 our data=10486866	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 20, and data = 10486862 our data=10486866	
+miss happend! block index = 16, and data = 10486866 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9437581 our data=10486854	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486854	
+miss happend! block index = 24, and data = 10486854 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9423740 our data=10486858	
+miss happend! block index = 24, and data = 10486858 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486866 our data=9437581	
+miss happend! block index = 28, and data = 10486854 our data=10486858	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 24, and data = 9437581 our data=10486862	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486858 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486862	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 10486862 our data=10486866	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486862 our data=10486866	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 9423741 our data=10486855	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 4, and data = 10486866 our data=10486855	
+miss happend! block index = 24, and data = 10486866 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 10486855 our data=10486859	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 4, and data = 10486855 our data=10486859	
+miss happend! block index = 0, and data = 10486859 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 0, and data = 9423741 our data=10486863	
+miss happend! block index = 0, and data = 10486863 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486866 our data=9437581	
+miss happend! block index = 4, and data = 10486859 our data=10486863	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 0, and data = 9423741 our data=10486867	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486863 our data=10486867	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 9423741 our data=10486855	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 12, and data = 10486866 our data=10486855	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 10486855 our data=10486859	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486855 our data=10486859	
+miss happend! block index = 0, and data = 10486867 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 8, and data = 10486859 our data=10486863	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486859 our data=10486863	
+miss happend! block index = 8, and data = 10486863 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 8, and data = 9423741 our data=10486867	
+miss happend! block index = 8, and data = 10486867 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 12, and data = 10486863 our data=10486867	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=10486855	
+miss happend! block index = 16, and data = 10486855 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486855	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9437581 our data=10486859	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486855 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486859	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 16, and data = 10486859 our data=10486863	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 20, and data = 10486859 our data=10486863	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 16, and data = 10486863 our data=10486867	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 20, and data = 10486863 our data=10486867	
+miss happend! block index = 16, and data = 10486867 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9437581 our data=10486855	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486855	
+miss happend! block index = 24, and data = 10486855 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9423740 our data=10486859	
+miss happend! block index = 24, and data = 10486859 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486867 our data=9437581	
+miss happend! block index = 28, and data = 10486855 our data=10486859	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 24, and data = 9437581 our data=10486863	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486859 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486863	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 10486863 our data=10486867	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486863 our data=10486867	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 9423741 our data=10486856	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 4, and data = 10486867 our data=10486856	
+miss happend! block index = 24, and data = 10486867 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 10486856 our data=10486860	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 4, and data = 10486856 our data=10486860	
+miss happend! block index = 0, and data = 10486860 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 0, and data = 9423741 our data=10486864	
+miss happend! block index = 0, and data = 10486864 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486867 our data=9437581	
+miss happend! block index = 4, and data = 10486860 our data=10486864	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 0, and data = 9423741 our data=10486868	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486864 our data=10486868	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 9423741 our data=10486856	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 12, and data = 10486867 our data=10486856	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 10486856 our data=10486860	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486856 our data=10486860	
+miss happend! block index = 0, and data = 10486868 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 8, and data = 10486860 our data=10486864	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486860 our data=10486864	
+miss happend! block index = 8, and data = 10486864 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 8, and data = 9423741 our data=10486868	
+miss happend! block index = 8, and data = 10486868 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 12, and data = 10486864 our data=10486868	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=10486856	
+miss happend! block index = 16, and data = 10486856 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486856	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9437581 our data=10486860	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486856 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486860	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 16, and data = 10486860 our data=10486864	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 20, and data = 10486860 our data=10486864	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 16, and data = 10486864 our data=10486868	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 20, and data = 10486864 our data=10486868	
+miss happend! block index = 16, and data = 10486868 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9437581 our data=10486856	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486856	
+miss happend! block index = 24, and data = 10486856 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9423740 our data=10486860	
+miss happend! block index = 24, and data = 10486860 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486868 our data=9437581	
+miss happend! block index = 28, and data = 10486856 our data=10486860	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 24, and data = 9437581 our data=10486864	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486860 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486864	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 10486864 our data=10486868	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486864 our data=10486868	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 9423741 our data=10486857	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 4, and data = 10486868 our data=10486857	
+miss happend! block index = 24, and data = 10486868 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 10486857 our data=10486861	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 4, and data = 10486857 our data=10486861	
+miss happend! block index = 0, and data = 10486861 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 0, and data = 9423741 our data=10486865	
+miss happend! block index = 0, and data = 10486865 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486868 our data=9437581	
+miss happend! block index = 4, and data = 10486861 our data=10486865	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 0, and data = 9423741 our data=10486869	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486865 our data=10486869	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 9423741 our data=10486857	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 12, and data = 10486868 our data=10486857	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 10486857 our data=10486861	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486857 our data=10486861	
+miss happend! block index = 0, and data = 10486869 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 8, and data = 10486861 our data=10486865	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486861 our data=10486865	
+miss happend! block index = 8, and data = 10486865 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 8, and data = 9423741 our data=10486869	
+miss happend! block index = 8, and data = 10486869 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 12, and data = 10486865 our data=10486869	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=10486857	
+miss happend! block index = 16, and data = 10486857 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486857	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9437581 our data=10486861	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486857 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486861	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 16, and data = 10486861 our data=10486865	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 20, and data = 10486861 our data=10486865	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 16, and data = 10486865 our data=10486869	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 20, and data = 10486865 our data=10486869	
+miss happend! block index = 16, and data = 10486869 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9437581 our data=10486857	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486857	
+miss happend! block index = 24, and data = 10486857 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9423740 our data=10486861	
+miss happend! block index = 24, and data = 10486861 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486869 our data=9437581	
+miss happend! block index = 28, and data = 10486857 our data=10486861	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 24, and data = 9437581 our data=10486865	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486861 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486865	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 10486865 our data=10486869	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486865 our data=10486869	
+miss happend! block index = 4, and data = 10486869 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486869 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423741 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 9423741 our data=10486862	
+miss happend! block index = 0, and data = 10486862 our data=10486854	
+miss happend! block index = 0, and data = 10486854 our data=10486858	
+miss happend! block index = 0, and data = 10486858 our data=9423743	
+miss happend! block index = 0, and data = 9423743 our data=10486866	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 10486866 our data=9423743	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 9423743 our data=10486866	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 9423743 our data=10486854	
+miss happend! block index = 4, and data = 10486854 our data=10486858	
+hit happend! block index = 0, and data = 10486866 our data=10486866
+miss happend! block index = 4, and data = 10486858 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 9423743 our data=10486862	
+miss happend! block index = 4, and data = 10486862 our data=10486854	
+miss happend! block index = 0, and data = 10486866 our data=10486858	
+miss happend! block index = 0, and data = 10486858 our data=9423743	
+miss happend! block index = 4, and data = 10486854 our data=10486866	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 10486866 our data=10486866
+miss happend! block index = 0, and data = 9423743 our data=10486854	
+miss happend! block index = 4, and data = 10486866 our data=10486858	
+miss happend! block index = 4, and data = 10486858 our data=10486866	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 10486866 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423743 our data=10486862	
+miss happend! block index = 8, and data = 10486862 our data=10486854	
+miss happend! block index = 8, and data = 10486854 our data=10486858	
+miss happend! block index = 0, and data = 10486854 our data=9423743	
+miss happend! block index = 8, and data = 10486858 our data=10486866	
+miss happend! block index = 8, and data = 10486866 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423743 our data=10486866	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486854	
+miss happend! block index = 12, and data = 10486854 our data=10486858	
+hit happend! block index = 8, and data = 10486866 our data=10486866
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486858 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486866 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486862	
+miss happend! block index = 12, and data = 10486862 our data=10486854	
+miss happend! block index = 8, and data = 9423743 our data=10486858	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486854 our data=10486866	
+miss happend! block index = 12, and data = 10486866 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486858 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486866	
+miss happend! block index = 8, and data = 9423743 our data=10486854	
+miss happend! block index = 12, and data = 10486866 our data=10486858	
+miss happend! block index = 12, and data = 10486858 our data=10486866	
+miss happend! block index = 12, and data = 10486866 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486854 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 9437581 our data=10486862	
+miss happend! block index = 16, and data = 10486862 our data=10486854	
+miss happend! block index = 16, and data = 10486854 our data=10486858	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 10486858 our data=10486866	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 16, and data = 10486866 our data=10486866
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 9437581 our data=10486854	
+miss happend! block index = 20, and data = 10486854 our data=10486858	
+hit happend! block index = 16, and data = 10486866 our data=10486866
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486858 our data=10486862	
+miss happend! block index = 20, and data = 10486862 our data=10486854	
+miss happend! block index = 16, and data = 10486866 our data=10486858	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486854 our data=10486866	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 20, and data = 10486866 our data=10486866
+miss happend! block index = 16, and data = 10486858 our data=10486854	
+miss happend! block index = 20, and data = 10486866 our data=10486858	
+miss happend! block index = 20, and data = 10486858 our data=10486866	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 24, and data = 10486869 our data=10486862	
+miss happend! block index = 24, and data = 10486862 our data=10486854	
+miss happend! block index = 24, and data = 10486854 our data=10486858	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 24, and data = 10486858 our data=10486866	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 24, and data = 10486866 our data=10486866
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486869 our data=10486854	
+miss happend! block index = 28, and data = 10486854 our data=10486858	
+hit happend! block index = 24, and data = 10486866 our data=10486866
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486858 our data=10486862	
+miss happend! block index = 28, and data = 10486862 our data=10486854	
+miss happend! block index = 24, and data = 10486866 our data=10486858	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486854 our data=10486866	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 28, and data = 10486866 our data=10486866
+miss happend! block index = 24, and data = 10486858 our data=10486854	
+miss happend! block index = 28, and data = 10486866 our data=10486858	
+miss happend! block index = 28, and data = 10486858 our data=10486866	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 9423743 our data=10486863	
+miss happend! block index = 0, and data = 10486863 our data=10486855	
+miss happend! block index = 0, and data = 10486855 our data=10486859	
+miss happend! block index = 0, and data = 10486859 our data=9423743	
+miss happend! block index = 0, and data = 9423743 our data=10486867	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 10486867 our data=9423743	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 9423743 our data=10486867	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 9423743 our data=10486855	
+miss happend! block index = 4, and data = 10486855 our data=10486859	
+hit happend! block index = 0, and data = 10486867 our data=10486867
+miss happend! block index = 4, and data = 10486859 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 9423743 our data=10486863	
+miss happend! block index = 4, and data = 10486863 our data=10486855	
+miss happend! block index = 0, and data = 10486867 our data=10486859	
+miss happend! block index = 0, and data = 10486859 our data=9423743	
+miss happend! block index = 4, and data = 10486855 our data=10486867	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 10486867 our data=10486867
+miss happend! block index = 0, and data = 9423743 our data=10486855	
+miss happend! block index = 4, and data = 10486867 our data=10486859	
+miss happend! block index = 4, and data = 10486859 our data=10486867	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 10486867 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423743 our data=10486863	
+miss happend! block index = 8, and data = 10486863 our data=10486855	
+miss happend! block index = 8, and data = 10486855 our data=10486859	
+miss happend! block index = 0, and data = 10486855 our data=9423743	
+miss happend! block index = 8, and data = 10486859 our data=10486867	
+miss happend! block index = 8, and data = 10486867 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423743 our data=10486867	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486855	
+miss happend! block index = 12, and data = 10486855 our data=10486859	
+hit happend! block index = 8, and data = 10486867 our data=10486867
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486859 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486867 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486863	
+miss happend! block index = 12, and data = 10486863 our data=10486855	
+miss happend! block index = 8, and data = 9423743 our data=10486859	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486855 our data=10486867	
+miss happend! block index = 12, and data = 10486867 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486859 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486867	
+miss happend! block index = 8, and data = 9423743 our data=10486855	
+miss happend! block index = 12, and data = 10486867 our data=10486859	
+miss happend! block index = 12, and data = 10486859 our data=10486867	
+miss happend! block index = 12, and data = 10486867 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486855 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 10486854 our data=10486863	
+miss happend! block index = 16, and data = 10486863 our data=10486855	
+miss happend! block index = 16, and data = 10486855 our data=10486859	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 10486859 our data=10486867	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 16, and data = 10486867 our data=10486867
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486866 our data=10486855	
+miss happend! block index = 20, and data = 10486855 our data=10486859	
+hit happend! block index = 16, and data = 10486867 our data=10486867
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486859 our data=10486863	
+miss happend! block index = 20, and data = 10486863 our data=10486855	
+miss happend! block index = 16, and data = 10486867 our data=10486859	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486855 our data=10486867	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 20, and data = 10486867 our data=10486867
+miss happend! block index = 16, and data = 10486859 our data=10486855	
+miss happend! block index = 20, and data = 10486867 our data=10486859	
+miss happend! block index = 20, and data = 10486859 our data=10486867	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 24, and data = 10486854 our data=10486863	
+miss happend! block index = 24, and data = 10486863 our data=10486855	
+miss happend! block index = 24, and data = 10486855 our data=10486859	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 24, and data = 10486859 our data=10486867	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 24, and data = 10486867 our data=10486867
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486866 our data=10486855	
+miss happend! block index = 28, and data = 10486855 our data=10486859	
+hit happend! block index = 24, and data = 10486867 our data=10486867
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486859 our data=10486863	
+miss happend! block index = 28, and data = 10486863 our data=10486855	
+miss happend! block index = 24, and data = 10486867 our data=10486859	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486855 our data=10486867	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 28, and data = 10486867 our data=10486867
+miss happend! block index = 24, and data = 10486859 our data=10486855	
+miss happend! block index = 28, and data = 10486867 our data=10486859	
+miss happend! block index = 28, and data = 10486859 our data=10486867	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 9423743 our data=10486864	
+miss happend! block index = 0, and data = 10486864 our data=10486856	
+miss happend! block index = 0, and data = 10486856 our data=10486860	
+miss happend! block index = 0, and data = 10486860 our data=9423743	
+miss happend! block index = 0, and data = 9423743 our data=10486868	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 10486868 our data=9423743	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 9423743 our data=10486868	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 9423743 our data=10486856	
+miss happend! block index = 4, and data = 10486856 our data=10486860	
+hit happend! block index = 0, and data = 10486868 our data=10486868
+miss happend! block index = 4, and data = 10486860 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 9423743 our data=10486864	
+miss happend! block index = 4, and data = 10486864 our data=10486856	
+miss happend! block index = 0, and data = 10486868 our data=10486860	
+miss happend! block index = 0, and data = 10486860 our data=9423743	
+miss happend! block index = 4, and data = 10486856 our data=10486868	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 10486868 our data=10486868
+miss happend! block index = 0, and data = 9423743 our data=10486856	
+miss happend! block index = 4, and data = 10486868 our data=10486860	
+miss happend! block index = 4, and data = 10486860 our data=10486868	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 10486868 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423743 our data=10486864	
+miss happend! block index = 8, and data = 10486864 our data=10486856	
+miss happend! block index = 8, and data = 10486856 our data=10486860	
+miss happend! block index = 0, and data = 10486856 our data=9423743	
+miss happend! block index = 8, and data = 10486860 our data=10486868	
+miss happend! block index = 8, and data = 10486868 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423743 our data=10486868	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486856	
+miss happend! block index = 12, and data = 10486856 our data=10486860	
+hit happend! block index = 8, and data = 10486868 our data=10486868
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486860 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486868 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486864	
+miss happend! block index = 12, and data = 10486864 our data=10486856	
+miss happend! block index = 8, and data = 9423743 our data=10486860	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486856 our data=10486868	
+miss happend! block index = 12, and data = 10486868 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486860 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486868	
+miss happend! block index = 8, and data = 9423743 our data=10486856	
+miss happend! block index = 12, and data = 10486868 our data=10486860	
+miss happend! block index = 12, and data = 10486860 our data=10486868	
+miss happend! block index = 12, and data = 10486868 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486856 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 10486855 our data=10486864	
+miss happend! block index = 16, and data = 10486864 our data=10486856	
+miss happend! block index = 16, and data = 10486856 our data=10486860	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 10486860 our data=10486868	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 16, and data = 10486868 our data=10486868
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486867 our data=10486856	
+miss happend! block index = 20, and data = 10486856 our data=10486860	
+hit happend! block index = 16, and data = 10486868 our data=10486868
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486860 our data=10486864	
+miss happend! block index = 20, and data = 10486864 our data=10486856	
+miss happend! block index = 16, and data = 10486868 our data=10486860	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486856 our data=10486868	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 20, and data = 10486868 our data=10486868
+miss happend! block index = 16, and data = 10486860 our data=10486856	
+miss happend! block index = 20, and data = 10486868 our data=10486860	
+miss happend! block index = 20, and data = 10486860 our data=10486868	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 24, and data = 10486855 our data=10486864	
+miss happend! block index = 24, and data = 10486864 our data=10486856	
+miss happend! block index = 24, and data = 10486856 our data=10486860	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 24, and data = 10486860 our data=10486868	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 24, and data = 10486868 our data=10486868
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486867 our data=10486856	
+miss happend! block index = 28, and data = 10486856 our data=10486860	
+hit happend! block index = 24, and data = 10486868 our data=10486868
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486860 our data=10486864	
+miss happend! block index = 28, and data = 10486864 our data=10486856	
+miss happend! block index = 24, and data = 10486868 our data=10486860	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486856 our data=10486868	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 28, and data = 10486868 our data=10486868
+miss happend! block index = 24, and data = 10486860 our data=10486856	
+miss happend! block index = 28, and data = 10486868 our data=10486860	
+miss happend! block index = 28, and data = 10486860 our data=10486868	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 9423743 our data=10486865	
+miss happend! block index = 0, and data = 10486865 our data=10486857	
+miss happend! block index = 0, and data = 10486857 our data=10486861	
+miss happend! block index = 0, and data = 10486861 our data=9423743	
+miss happend! block index = 0, and data = 9423743 our data=10486869	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 10486869 our data=9423743	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 0, and data = 9423743 our data=10486869	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 9423743 our data=10486857	
+miss happend! block index = 4, and data = 10486857 our data=10486861	
+hit happend! block index = 0, and data = 10486869 our data=10486869
+miss happend! block index = 4, and data = 10486861 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 9423743 our data=10486865	
+miss happend! block index = 4, and data = 10486865 our data=10486857	
+miss happend! block index = 0, and data = 10486869 our data=10486861	
+miss happend! block index = 0, and data = 10486861 our data=9423743	
+miss happend! block index = 4, and data = 10486857 our data=10486869	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 10486869 our data=10486869
+miss happend! block index = 0, and data = 9423743 our data=10486857	
+miss happend! block index = 4, and data = 10486869 our data=10486861	
+miss happend! block index = 4, and data = 10486861 our data=10486869	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 4, and data = 10486869 our data=9423743	
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423743 our data=10486865	
+miss happend! block index = 8, and data = 10486865 our data=10486857	
+miss happend! block index = 8, and data = 10486857 our data=10486861	
+miss happend! block index = 0, and data = 10486857 our data=9423743	
+miss happend! block index = 8, and data = 10486861 our data=10486869	
+miss happend! block index = 8, and data = 10486869 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 9423743 our data=10486869	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486857	
+miss happend! block index = 12, and data = 10486857 our data=10486861	
+hit happend! block index = 8, and data = 10486869 our data=10486869
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486861 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486869 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486865	
+miss happend! block index = 12, and data = 10486865 our data=10486857	
+miss happend! block index = 8, and data = 9423743 our data=10486861	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 10486857 our data=10486869	
+miss happend! block index = 12, and data = 10486869 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486861 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 12, and data = 9423743 our data=10486869	
+miss happend! block index = 8, and data = 9423743 our data=10486857	
+miss happend! block index = 12, and data = 10486869 our data=10486861	
+miss happend! block index = 12, and data = 10486861 our data=10486869	
+miss happend! block index = 12, and data = 10486869 our data=9423743	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 8, and data = 10486857 our data=9423743	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 10486856 our data=10486865	
+miss happend! block index = 16, and data = 10486865 our data=10486857	
+miss happend! block index = 16, and data = 10486857 our data=10486861	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 10486861 our data=10486869	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 16, and data = 10486869 our data=10486869
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486868 our data=10486857	
+miss happend! block index = 20, and data = 10486857 our data=10486861	
+hit happend! block index = 16, and data = 10486869 our data=10486869
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486861 our data=10486865	
+miss happend! block index = 20, and data = 10486865 our data=10486857	
+miss happend! block index = 16, and data = 10486869 our data=10486861	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 20, and data = 10486857 our data=10486869	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 20, and data = 10486869 our data=10486869
+miss happend! block index = 16, and data = 10486861 our data=10486857	
+miss happend! block index = 20, and data = 10486869 our data=10486861	
+miss happend! block index = 20, and data = 10486861 our data=10486869	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 24, and data = 10486856 our data=10486865	
+miss happend! block index = 24, and data = 10486865 our data=10486857	
+miss happend! block index = 24, and data = 10486857 our data=10486861	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 24, and data = 10486861 our data=10486869	
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 24, and data = 10486869 our data=10486869
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486868 our data=10486857	
+miss happend! block index = 28, and data = 10486857 our data=10486861	
+hit happend! block index = 24, and data = 10486869 our data=10486869
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 4, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486861 our data=10486865	
+miss happend! block index = 28, and data = 10486865 our data=10486857	
+miss happend! block index = 24, and data = 10486869 our data=10486861	
+hit happend! block index = 0, and data = 9423743 our data=9423743
+miss happend! block index = 28, and data = 10486857 our data=10486869	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 8, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 0, and data = 9423743 our data=9423743
+hit happend! block index = 28, and data = 10486869 our data=10486869
+miss happend! block index = 24, and data = 10486861 our data=10486857	
+miss happend! block index = 28, and data = 10486869 our data=10486861	
+miss happend! block index = 28, and data = 10486861 our data=10486869	
+hit happend! block index = 12, and data = 9423743 our data=9423743
+hit happend! block index = 12, and data = 9423743 our data=9423743
+miss happend! block index = 16, and data = 10486857 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 9423743 our data=10486854	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 4, and data = 9423743 our data=10486854	
+miss happend! block index = 24, and data = 10486857 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 10486854 our data=10486858	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486869 our data=9437581	
+miss happend! block index = 4, and data = 10486854 our data=10486858	
+miss happend! block index = 0, and data = 10486858 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 0, and data = 9423741 our data=10486862	
+miss happend! block index = 0, and data = 10486862 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486869 our data=9437581	
+miss happend! block index = 4, and data = 10486858 our data=10486862	
+miss happend! block index = 8, and data = 9423743 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 0, and data = 9423741 our data=10486866	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486862 our data=10486866	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 9423741 our data=10486854	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 12, and data = 9423743 our data=10486854	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 10486854 our data=10486858	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486854 our data=10486858	
+miss happend! block index = 0, and data = 10486866 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 8, and data = 10486858 our data=10486862	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486858 our data=10486862	
+miss happend! block index = 8, and data = 10486862 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 8, and data = 9423741 our data=10486866	
+miss happend! block index = 8, and data = 10486866 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 12, and data = 10486862 our data=10486866	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=10486854	
+miss happend! block index = 16, and data = 10486854 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486854	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9437581 our data=10486858	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486854 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486858	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 16, and data = 10486858 our data=10486862	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 20, and data = 10486858 our data=10486862	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 16, and data = 10486862 our data=10486866	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 20, and data = 10486862 our data=10486866	
+miss happend! block index = 16, and data = 10486866 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9437581 our data=10486854	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486854	
+miss happend! block index = 24, and data = 10486854 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9423740 our data=10486858	
+miss happend! block index = 24, and data = 10486858 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486866 our data=9437581	
+miss happend! block index = 28, and data = 10486854 our data=10486858	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 24, and data = 9437581 our data=10486862	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486858 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486862	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 10486862 our data=10486866	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486862 our data=10486866	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 9423741 our data=10486855	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 4, and data = 10486866 our data=10486855	
+miss happend! block index = 24, and data = 10486866 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 10486855 our data=10486859	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 4, and data = 10486855 our data=10486859	
+miss happend! block index = 0, and data = 10486859 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 0, and data = 9423741 our data=10486863	
+miss happend! block index = 0, and data = 10486863 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486866 our data=9437581	
+miss happend! block index = 4, and data = 10486859 our data=10486863	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 0, and data = 9423741 our data=10486867	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486863 our data=10486867	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 9423741 our data=10486855	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 12, and data = 10486866 our data=10486855	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 10486855 our data=10486859	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486855 our data=10486859	
+miss happend! block index = 0, and data = 10486867 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 8, and data = 10486859 our data=10486863	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486859 our data=10486863	
+miss happend! block index = 8, and data = 10486863 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 8, and data = 9423741 our data=10486867	
+miss happend! block index = 8, and data = 10486867 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 12, and data = 10486863 our data=10486867	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=10486855	
+miss happend! block index = 16, and data = 10486855 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486855	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9437581 our data=10486859	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486855 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486859	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 16, and data = 10486859 our data=10486863	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 20, and data = 10486859 our data=10486863	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 16, and data = 10486863 our data=10486867	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 20, and data = 10486863 our data=10486867	
+miss happend! block index = 16, and data = 10486867 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9437581 our data=10486855	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486855	
+miss happend! block index = 24, and data = 10486855 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9423740 our data=10486859	
+miss happend! block index = 24, and data = 10486859 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486867 our data=9437581	
+miss happend! block index = 28, and data = 10486855 our data=10486859	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 24, and data = 9437581 our data=10486863	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486859 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486863	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 10486863 our data=10486867	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486863 our data=10486867	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 9423741 our data=10486856	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 4, and data = 10486867 our data=10486856	
+miss happend! block index = 24, and data = 10486867 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 10486856 our data=10486860	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 4, and data = 10486856 our data=10486860	
+miss happend! block index = 0, and data = 10486860 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 0, and data = 9423741 our data=10486864	
+miss happend! block index = 0, and data = 10486864 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486867 our data=9437581	
+miss happend! block index = 4, and data = 10486860 our data=10486864	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 0, and data = 9423741 our data=10486868	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486864 our data=10486868	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 9423741 our data=10486856	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 12, and data = 10486867 our data=10486856	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 10486856 our data=10486860	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486856 our data=10486860	
+miss happend! block index = 0, and data = 10486868 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 8, and data = 10486860 our data=10486864	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486860 our data=10486864	
+miss happend! block index = 8, and data = 10486864 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 8, and data = 9423741 our data=10486868	
+miss happend! block index = 8, and data = 10486868 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 12, and data = 10486864 our data=10486868	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=10486856	
+miss happend! block index = 16, and data = 10486856 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486856	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9437581 our data=10486860	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486856 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486860	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 16, and data = 10486860 our data=10486864	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 20, and data = 10486860 our data=10486864	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 16, and data = 10486864 our data=10486868	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 20, and data = 10486864 our data=10486868	
+miss happend! block index = 16, and data = 10486868 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9437581 our data=10486856	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486856	
+miss happend! block index = 24, and data = 10486856 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9423740 our data=10486860	
+miss happend! block index = 24, and data = 10486860 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486868 our data=9437581	
+miss happend! block index = 28, and data = 10486856 our data=10486860	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 24, and data = 9437581 our data=10486864	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486860 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486864	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 10486864 our data=10486868	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486864 our data=10486868	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 9423741 our data=10486857	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 4, and data = 10486868 our data=10486857	
+miss happend! block index = 24, and data = 10486868 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 0, and data = 10486857 our data=10486861	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 4, and data = 10486857 our data=10486861	
+miss happend! block index = 0, and data = 10486861 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 0, and data = 9423741 our data=10486865	
+miss happend! block index = 0, and data = 10486865 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486868 our data=9437581	
+miss happend! block index = 4, and data = 10486861 our data=10486865	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 0, and data = 9423741 our data=10486869	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 4, and data = 10486865 our data=10486869	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 9423741 our data=10486857	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 12, and data = 10486868 our data=10486857	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 8, and data = 10486857 our data=10486861	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 20, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486857 our data=10486861	
+miss happend! block index = 0, and data = 10486869 our data=9423741	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 8, and data = 10486861 our data=10486865	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 12, and data = 10486861 our data=10486865	
+miss happend! block index = 8, and data = 10486865 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 8, and data = 9423741 our data=10486869	
+miss happend! block index = 8, and data = 10486869 our data=9423741	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 12, and data = 10486865 our data=10486869	
+miss happend! block index = 16, and data = 9437581 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=10486857	
+miss happend! block index = 16, and data = 10486857 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486857	
+miss happend! block index = 24, and data = 9437581 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9437581 our data=10486861	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486857 our data=9437581	
+miss happend! block index = 20, and data = 9437581 our data=10486861	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 16, and data = 10486861 our data=10486865	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 28, and data = 9437581 our data=9437581
+miss happend! block index = 20, and data = 10486861 our data=10486865	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 16, and data = 10486865 our data=10486869	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 20, and data = 10486865 our data=10486869	
+miss happend! block index = 16, and data = 10486869 our data=9423740	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9437581 our data=10486857	
+hit happend! block index = 16, and data = 9423740 our data=9423740
+hit happend! block index = 16, and data = 9423740 our data=9423740
+miss happend! block index = 16, and data = 9423740 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486857	
+miss happend! block index = 24, and data = 10486857 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 24, and data = 9423740 our data=10486861	
+miss happend! block index = 24, and data = 10486861 our data=9423740	
+hit happend! block index = 24, and data = 9423740 our data=9423740
+miss happend! block index = 20, and data = 10486869 our data=9437581	
+miss happend! block index = 28, and data = 10486857 our data=10486861	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 9423740 our data=9437581	
+miss happend! block index = 24, and data = 9437581 our data=10486865	
+hit happend! block index = 0, and data = 9423741 our data=9423741
+hit happend! block index = 0, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486861 our data=9437581	
+miss happend! block index = 28, and data = 9437581 our data=10486865	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 24, and data = 10486865 our data=10486869	
+hit happend! block index = 8, and data = 9423741 our data=9423741
+hit happend! block index = 8, and data = 9423741 our data=9423741
+miss happend! block index = 28, and data = 10486865 our data=10486869	
+miss happend! block index = 24, and data = 10486869 our data=10486851	
+miss happend! block index = 8, and data = 9423741 our data=9423743	
+miss happend! block index = 0, and data = 9423741 our data=10486758	
+miss happend! block index = 20, and data = 9437581 our data=10486758	
+hit happend! block index = 20, and data = 10486758 our data=10486758
+hit happend! block index = 0, and data = 10486758 our data=10486758
+hit happend! block index = 0, and data = 10486758 our data=10486758
+miss happend! block index = 0, and data = 10486758 our data=10486764	
+miss happend! block index = 20, and data = 10486758 our data=10486764	
+hit happend! block index = 20, and data = 10486764 our data=10486764
+hit happend! block index = 0, and data = 10486764 our data=10486764
+hit happend! block index = 0, and data = 10486764 our data=10486764
+miss happend! block index = 0, and data = 10486764 our data=10486848	
+hit happend! block index = 0, and data = 10486848 our data=10486848
+miss happend! block index = 0, and data = 10486848 our data=10486764	
+hit happend! block index = 20, and data = 10486764 our data=10486764
+hit happend! block index = 20, and data = 10486764 our data=10486764
+hit happend! block index = 0, and data = 10486764 our data=10486764
+hit happend! block index = 0, and data = 10486764 our data=10486764
+miss happend! block index = 0, and data = 10486764 our data=10486719	
+hit happend! block index = 0, and data = 10486719 our data=10486719
+hit happend! block index = 0, and data = 10486719 our data=10486719
+miss happend! block index = 0, and data = 10486719 our data=10486809	
+miss happend! block index = 0, and data = 10486809 our data=10486719	
+hit happend! block index = 0, and data = 10486719 our data=10486719
+miss happend! block index = 16, and data = 9437581 our data=10486774	
+miss happend! block index = 4, and data = 10486869 our data=10486775	
+hit happend! block index = 4, and data = 10486775 our data=10486775
+hit happend! block index = 16, and data = 10486774 our data=10486774
+hit happend! block index = 16, and data = 10486774 our data=10486774
+miss happend! block index = 0, and data = 10486719 our data=9423740	
+miss happend! block index = 0, and data = 9423740 our data=10486811	
+hit happend! block index = 0, and data = 10486811 our data=10486811
+hit happend! block index = 16, and data = 10486774 our data=10486774
+hit happend! block index = 4, and data = 10486775 our data=10486775
+hit happend! block index = 4, and data = 10486775 our data=10486775
+hit happend! block index = 16, and data = 10486774 our data=10486774
+hit happend! block index = 16, and data = 10486774 our data=10486774
+miss happend! block index = 8, and data = 9423743 our data=10486776	
+miss happend! block index = 28, and data = 10486869 our data=10486776	
+hit happend! block index = 28, and data = 10486776 our data=10486776
+hit happend! block index = 8, and data = 10486776 our data=10486776
+hit happend! block index = 8, and data = 10486776 our data=10486776
+miss happend! block index = 0, and data = 10486811 our data=9423740	
+hit happend! block index = 8, and data = 10486776 our data=10486776
+hit happend! block index = 28, and data = 10486776 our data=10486776
+hit happend! block index = 28, and data = 10486776 our data=10486776
+hit happend! block index = 8, and data = 10486776 our data=10486776
+hit happend! block index = 8, and data = 10486776 our data=10486776
+miss happend! block index = 0, and data = 9423740 our data=10486778	
+miss happend! block index = 20, and data = 10486764 our data=10486778	
+hit happend! block index = 20, and data = 10486778 our data=10486778
+hit happend! block index = 0, and data = 10486778 our data=10486778
+hit happend! block index = 0, and data = 10486778 our data=10486778
+hit happend! block index = 0, and data = 10486778 our data=10486778
+hit happend! block index = 20, and data = 10486778 our data=10486778
+hit happend! block index = 20, and data = 10486778 our data=10486778
+hit happend! block index = 0, and data = 10486778 our data=10486778
+hit happend! block index = 0, and data = 10486778 our data=10486778
+miss happend! block index = 24, and data = 10486851 our data=10486847	
+miss happend! block index = 8, and data = 10486776 our data=10486853	
+miss happend! block index = 16, and data = 10486774 our data=10486847	
+hit happend! block index = 8, and data = 10486853 our data=10486853
+hit happend! block index = 8, and data = 10486853 our data=10486853
+miss happend! block index = 12, and data = 10486869 our data=10486075	
+miss happend! block index = 8, and data = 10486853 our data=10486075	
+hit happend! block index = 12, and data = 10486075 our data=10486075
+miss happend! block index = 16, and data = 10486847 our data=10486853	
+hit happend! block index = 16, and data = 10486853 our data=10486853
+miss happend! block index = 20, and data = 10486778 our data=10486076	
+miss happend! block index = 16, and data = 10486853 our data=10486076	
+hit happend! block index = 20, and data = 10486076 our data=10486076
+miss happend! block index = 8, and data = 10486075 our data=9423743	
+Total miss times = 797, and total hit times = 878

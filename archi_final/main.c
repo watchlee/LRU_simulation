@@ -20,6 +20,8 @@ int Associativity;
 int Offset;
 
 int** block_array;
+static int total_miss_times = 0;
+static int total_hit_times = 0;
 
 /*-----------Memory Allocate----------------*/
 void Allocate_memory(int Addressing_bus,int Sets,int Associativity,int Offset)
@@ -84,7 +86,8 @@ void combination(char address[],int N,int K)
 #define TRIGGER 2
 void Direct_Map(char** data_array,int total_data)
 {
-
+    FILE *result_file;
+    result_file = fopen("result_file.txt","w");
     int total_block = Sets*Associativity;
     /*設定初始值*/
     int loop;
@@ -178,6 +181,8 @@ void Direct_Map(char** data_array,int total_data)
             printf("%c",data_array[out_loop][inner_loop]);
         }
         printf(" Index is %d and tag is %d\n",index_to_dec[out_loop],tag_to_dec[out_loop]);
+        /*Recording index and tag data intp file*/
+        fprintf(result_file,"Index is %d and tag is %d\n",index_to_dec[out_loop],tag_to_dec[out_loop]);
     }
     
 #endif
@@ -187,18 +192,39 @@ void Direct_Map(char** data_array,int total_data)
 *
 *
 * */
-    
     for(count = 1;count<total_data;count++)
     {
         if(block_array[index_to_dec[count]]==INFINITE)
         {
- //           printf("first using\n");
-//            block_array[index_to_dec[count]]=
-            
+            printf("Cool fault!\n");
+            total_miss_times++;
+            block_array[index_to_dec[count]] = tag_to_dec[count];
         }
-        
+        else
+        {
+            /*current data is not fits */
+            if(block_array[index_to_dec[count]]!=tag_to_dec[count])
+            {
+                total_miss_times++;
+                printf("miss happend! block index = %d, and data = %d our data=%d\t\n",index_to_dec[count],block_array[index_to_dec[count]],tag_to_dec[count]);
+
+                fprintf(result_file,"miss happend! block index = %d, and data = %d our data=%d\t\n",index_to_dec[count],block_array[index_to_dec[count]],tag_to_dec[count]);
+
+                block_array[index_to_dec[count]] = tag_to_dec[count];
+            }
+            else
+            {
+
+                printf("hit happend! block index = %d, and data = %d our data=%d\n",index_to_dec[count],block_array[index_to_dec[count]],tag_to_dec[count]);
+                fprintf(result_file,"hit happend! block index = %d, and data = %d our data=%d\n",index_to_dec[count],block_array[index_to_dec[count]],tag_to_dec[count]);
+                
+                total_hit_times++;
+            }
+        }
     }
-  
+    printf("Total miss times = %d, and total hit times = %d\n",total_miss_times,total_hit_times); 
+
+    fprintf(result_file,"Total miss times = %d, and total hit times = %d\n",total_miss_times,total_hit_times); 
 /*要做修正
     int index=0,bit = 1;
     int count = 30;
@@ -211,6 +237,7 @@ void Direct_Map(char** data_array,int total_data)
 
     }
 */
+    fclose(result_file);
 }
 
 int main(int argv,char* argc[])
