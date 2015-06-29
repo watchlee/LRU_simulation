@@ -267,7 +267,7 @@ int main(int argv,char* argc[])
             printf("%s %s %d\n",buffer,comma,number[index-1]);
             fscanf(cache_file,"%s%s%d",buffer,comma,&number[index]);
 
-        }
+        
     }
 
 
