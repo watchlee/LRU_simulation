@@ -2,9 +2,9 @@
 
 
 
-all:main
+all:main.o
 
-	gcc main.c -o test
-	./test cacheA.org DataReference_n_comp.lst 
+	gcc main.c -o main.o
+	./main.o cacheA.org DataReference_n_comp.lst 
 clean:
-	rm -f test
+	rm -f main.o
